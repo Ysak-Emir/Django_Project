@@ -22,3 +22,5 @@ urlpatterns = [
     path('', homepage),
     path('categories/', categories)
 ]
+
+

@@ -1,0 +1,52 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.wrapper {
+    background: #FEFEFE;
+}
+
+.blog {
+    width: 450px;
+    margin: 0 auto;
+}
+
+h1 {
+    font-weight: normal;
+}
+
+p {
+    font-weight: lighter;
+    color: #38322F;
+    font-size: 14px;
+    line-height: 20px;
+    font-family: sans-serif;
+
+}
+
+a {
+    color: blue;
+}
+
+.pop {
+    margin: 15px 0 15px;
+}
+
+.pup {
+    margin-bottom: 15px;
+}
+.pap a {
+    text-decoration: none;
+}
+
+.line {
+    width: 100%;
+    height: 1px;
+    background: grey;
+}
+
+b {
+    background: #E8D1FC;
+}

@@ -10,3 +10,9 @@ class Product(models.Model):
 
 class Categories(models.Model):
     name = models.CharField(max_length=255)
+
+
+
+
+
+

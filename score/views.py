@@ -12,3 +12,5 @@ def Axe(request):
 
 def categories(request):
     return HttpResponse("Категории")
+
+
