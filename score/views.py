@@ -14,3 +14,5 @@ def categories(request):
     return HttpResponse("Категории")
 
 
+def table(request):
+    return render(request, 'table.html')
